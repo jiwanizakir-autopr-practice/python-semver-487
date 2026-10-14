@@ -73,7 +73,7 @@ typing = [
   "pyright<=1.2",
 ]
 formatting = [
-  "ruff<=0.16",
+  "ruff<=0.17.0",
 ]
 test = [
   "tox<=4.56.1",
