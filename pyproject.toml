@@ -76,7 +76,7 @@ formatting = [
   "ruff<=0.16",
 ]
 test = [
-  "tox<=4.56.1",
+  "tox<=4.65.0",
   "pytest<=9.1.1",
   "pytest-cov<=7.1.0",
   
